@@ -1,2 +1,18 @@
-hello rocky updataes are made
-going hike
+git--------------------commands
+
+To know the file
+pwd
+
+To make a directory/folder
+mkdir git
+cd git 
+
+
+To pull the code 
+gti pull --rebase
+
+To push the code
+git add .
+git comiit -m "pushing the code"
+git push -u
+
